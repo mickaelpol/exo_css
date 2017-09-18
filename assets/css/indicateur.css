@@ -5,6 +5,7 @@ body {
 	list-style: none;
 	display: flex;
 	background-color: #FFFFFF;
+	margin-top: 20%;
 }
 
 .indicateur li{
@@ -13,6 +14,10 @@ body {
     height:100px;
     width:100px;
     border:2px solid #679403;
+    margin-left:2px;
+    margin-right:2px;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 .indicateur li:nth-child(4){
 	background-color: red;
