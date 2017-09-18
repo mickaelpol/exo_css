@@ -1,7 +1,25 @@
+body {
+	background-color: #000;
+}
+.indicateur {
+	list-style: none;
+	display: flex;
+	background-color: #FFFFFF;
+}
+
 .indicateur li{
     background:#bfd70e;
     border-radius:50%;
     height:100px;
     width:100px;
     border:2px solid #679403;
+}
+.indicateur li:nth-child(4){
+	background-color: red;
+}
+.indicateur li:nth-child(7){
+	background-color: red;
+}
+.indicateur li:nth-child(12){
+	background-color: red;
 }
