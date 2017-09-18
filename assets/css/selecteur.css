@@ -1,3 +1,28 @@
-.master{
-	
+.master div{
+	background-color: #8BBB87;
+	float: left;
+	width: 44%;
+	margin:1%;
+	padding: 2%;
+}
+.master p {
+	text-align: left;
+	margin-left: 15px;
+	display: block;
+}
+.master h2{
+	margin-left: 10px;
+	font-size: 25px;
+}
+.master h3 {
+	color: #fff;
+	font-size: 25px;
+	text-align: left;
+}
+.master img {
+	float: left;
+	width: 45%;
+	height: 45%;
+	margin: 1%;
+	padding:2%;
 }
